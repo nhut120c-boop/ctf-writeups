@@ -8,6 +8,8 @@ Host: 107.170.70.73:5000
 
 File artifact: https://drive.google.com/file/d/1VywHaKWGQ8g-S4Oviyl52LzQqGaPaGJB/view?usp=sharing
 
+Flag: **bitctf{{v3cn45_m3m0ry_p4l4c3_br34ch}}**
+
 ---
 Đầu tiên vào host mình thấy được giao diện web
 
@@ -178,5 +180,5 @@ ra được:
 rồi điền các thông tin vào web 
 
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/bba51786-6065-462d-a6ba-13f5911b1fc5" />
-ta được flag ***bitctf{{v3cn45_m3m0ry_p4l4c3_br34ch}}***
+ta được flag **bitctf{{v3cn45_m3m0ry_p4l4c3_br34ch}}**
 
