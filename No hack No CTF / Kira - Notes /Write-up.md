@@ -33,4 +33,17 @@ Mình thấy được giao diện Kira- Notes
 
 <img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/9383f110-f767-4c8c-afba-c4c1982a5eb6" />
 
+Có rất nhiều thông tin như 
+<img width="417" height="77" alt="image" src="https://github.com/user-attachments/assets/ea473d14-a0f2-4a6d-be09-ad42c98919ee" />
 
+<img width="985" height="301" alt="image" src="https://github.com/user-attachments/assets/6e074b2e-e368-4cb8-b977-ba2f818e97d1" />
+
+
+<img width="928" height="442" alt="image" src="https://github.com/user-attachments/assets/378f5fb1-3912-4c13-8b5a-940637bfe98c" />
+
+<img width="1043" height="607" alt="image" src="https://github.com/user-attachments/assets/2e23fa12-6da2-4a24-abdd-7d5b7f439038" />
+
+
+Mình đã note lại hết thông tin trên và vào tất cả link có trong web đều bị 404
+
+Tiếp tục mình qua 
