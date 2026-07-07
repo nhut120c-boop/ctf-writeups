@@ -46,4 +46,20 @@ Có rất nhiều thông tin như
 
 Mình đã note lại hết thông tin trên và vào tất cả link có trong web đều bị 404
 
-Tiếp tục mình qua 
+Tiếp tục mình qua  ``` https://drive.proton.me/urls/00MNVW0SHG#do4wWWpAQ0Lw ```
+
+<img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/91783484-2215-4cad-96dc-da89c72870ee" />
+
+Đây mới là mục tiêu chính cần khai thác
+
+Đầu tiên mình xem ảnh <img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/84b8d272-cc79-4f1b-98b3-ac28af5c09bc" />
+
+Nhìn giống như pass nhưng bị xé mất một phần
+
+Tiếp theo là ổ đĩa of.img 
+
+và ảnh backup của web Kira-Notes ở link đầu
+
+<img width="1364" height="1197" alt="image" src="https://github.com/user-attachments/assets/f9ca221a-a4d0-48af-b629-194b2eacf92d" />
+
+
