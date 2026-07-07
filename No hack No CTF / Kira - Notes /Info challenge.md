@@ -1,4 +1,5 @@
-<img width="631" height="521" alt="image" src="https://github.com/user-attachments/assets/8e1a628d-4371-44f8-84ea-b9b4e9ea9eb9" /
+<img width="605" height="523" alt="image" src="https://github.com/user-attachments/assets/2a302333-63bc-4f8b-8f20-f5f49426159d" />
+
 
 ## link ```places.sqlite```
 
