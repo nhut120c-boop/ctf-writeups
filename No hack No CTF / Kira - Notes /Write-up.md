@@ -63,3 +63,45 @@ và ảnh backup của web Kira-Notes ở link đầu
 <img width="1364" height="1197" alt="image" src="https://github.com/user-attachments/assets/f9ca221a-a4d0-48af-b629-194b2eacf92d" />
 
 
+Sau đó mình phân tích file of.img bằng tool FTK Image
+
+Mình thấy các file tạo thành dòng chữ I will not less see it ở trong folder ctf
+
+<img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/d9062513-a156-4951-aa44-21526543116d" />
+
+Mình nghi họ đã giấu flag trong đây và quyết định bỏ nguyên file of.img và HDx để tìm
+
+Khi ctrl F và ghi flag thì được 3 file lạ gồm có final.zip, flag.txt và wtf.img
+
+<img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/78d251e7-2e54-4077-8f6c-845bc80d90c3" />
+
+
+Mình tiếp tục dùng binwwalk để trích file ẩn và nhận lại được file 10000.ext
+
+<img width="996" height="225" alt="image" src="https://github.com/user-attachments/assets/4451fdcb-dfef-476f-aa18-c8b524538dd1" />
+
+Sau đó mình dùng tool forenmost để lôi hết file ẩn ra
+
+Đầu tiên là file zip 
+
+<img width="730" height="172" alt="image" src="https://github.com/user-attachments/assets/4947db53-fd3e-4b34-98ac-d0ddd7cba439" />
+
+và được tệp 00541698.zip 
+
+Mình thử unzip thì nó bắt nhập pass
+
+<img width="1235" height="661" alt="image" src="https://github.com/user-attachments/assets/557486e5-444c-41d5-a433-117b92217522" />
+
+ Mình nhập thử 0x0Kira thì sai, mình tiếp tục lôi thêm file png còn lại ra vì nghi là ảnh pass
+
+ <img width="1027" height="252" alt="image" src="https://github.com/user-attachments/assets/3169d858-624a-469a-ae2b-ef29d3541f34" />
+
+và được 00541700.png chứa ảnh đầy đủ của passwword
+
+<img width="1208" height="843" alt="00541700" src="https://github.com/user-attachments/assets/eaec5935-bb61-4b82-ace7-fbd9136f5f06" />
+
+
+và được flag khi unzip là 
+
+<img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/769740d9-93d8-421a-a376-8e167c2f1de0" />
+
