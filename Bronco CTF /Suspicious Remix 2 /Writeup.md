@@ -29,6 +29,22 @@ Thấy ở kênh red có chữ lộ ra là
 
 <img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/9c4d59e0-d821-4a97-9d41-b2a7bd843ec5" />
 
-Sau khi nghe đoạn wav thì mình biết được nó là bài Never Gonna Give You Up vào năm 1987 
+Sau khi nghe đoạn wav thì mình biết được nó là bài ```Together Forever``` vào năm 1988
+
+Dựa vào đề bài, mình nghĩ là tác giả đã xài steghide để giấu dữ liệu vào file sg_remix2.wav
+
+Với password là 1988 đã có thì mình chạy thẳng lệnh 
+```
+steghide extracted -sf sg_remix2.wav -p "1988"
+```
+Và được file ```got_u_so_good.txt ```
+
+<img width="1037" height="183" alt="image" src="https://github.com/user-attachments/assets/299a8e0e-14d4-4bcb-af51-28c3ee82f377" />
+
+mình cat file got_u_so_good.txt và được flag là ```bronco{7h3y_g07_y0u_4g4in_didn'7_7h3y?}```
 
 
+<img width="812" height="116" alt="image" src="https://github.com/user-attachments/assets/91d02cd9-1701-4205-b0a9-95489cf53d97" />
+
+---
+ZeroD 
